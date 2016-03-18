@@ -16,6 +16,11 @@
 .signup-form-wrapper .checkbox {
 }
 
+.group-selection-field-group {
+  margin: 10px auto;
+  float: none;
+}
+
 .group-selection .panel {
 }
 
@@ -27,4 +32,8 @@
   display: inline-block;
   width: 100%;
   padding: 5px 10px;
+}
+
+.do-not-fret {
+  margin-top: 20px;
 }
