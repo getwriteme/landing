@@ -1,3 +1,12 @@
+
+header.signup {
+  padding-top: 100px;
+}
+
+.logo-container {
+  padding-bottom: 50px;
+}
+
 .signup-form-wrapper input.pop {
   border: none;
   box-shadow: none;
@@ -36,4 +45,77 @@
 
 .do-not-fret {
   margin-top: 20px;
+}
+
+/**
+ * colours
+ * #4eb6f7
+ * #0084b4
+ */
+.bg-secondary-2 {
+  background-color: #4eb6f7 !important;
+}
+
+.btn:hover {
+  border-color: #4eb6f7;
+  background-color: #4eb6f7;
+}
+.btn-primary {
+
+  color: #4eb6f7;
+}
+.btn-primary.btn-filled {
+  background: #4eb6f7;
+}
+
+.link-text {
+  border-bottom: 2px solid #4eb6f7;
+  color: #4eb6f7;
+}
+.subnav-fullwidth .btn {
+  color: #4eb6f7 !important;
+}
+
+.filters li {
+  color: #4eb6f7;
+}
+.filters li.active {
+  border-bottom: 2px solid #4eb6f7;
+}
+input[type="submit"] {
+  border: 2px solid #4eb6f7;
+  color: #4eb6f7;
+}
+.blog-filters li {
+  color: #4eb6f7;
+}
+.blog-filters li.active {
+  border-bottom: 2px solid #4eb6f7;
+}
+.pagination li a {
+  color: #4eb6f7;
+}
+.pagination li.active {
+  background: #4eb6f7;
+}
+.pager li a {
+  border: 2px solid #4eb6f7;
+  color: #4eb6f7;
+}
+.pager li a:hover {
+  background: #4eb6f7;
+}
+
+
+.bg-primary {
+  background-color: #4eb6f7 !important;
+}
+.feature-icon-large i {
+  color: #4eb6f7;
+}
+.icons-large li {
+  color: #4eb6f7;
+}
+.btn-primary {
+  border-color: #4eb6f7;
 }
