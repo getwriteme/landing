@@ -36,8 +36,13 @@ header.signup {
   margin-bottom: 30px;
 }
 
+.group-selectors .lead {
+  font-size: 1.5em;
+  margin-bottom: 30px;
+}
+
 .group-selectors .icon {
-  color: #4eb6f7;
+  /*color: #4eb6f7;*/
   font-size: 3em;
   padding-bottom: 10px;
 }
