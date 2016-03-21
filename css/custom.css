@@ -30,7 +30,16 @@ header.signup {
   float: none;
 }
 
-.group-selection .panel {
+.group-selectors {
+  color: #fff;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.group-selectors .icon {
+  color: #4eb6f7;
+  font-size: 3em;
+  padding-bottom: 10px;
 }
 
 .group-select {
